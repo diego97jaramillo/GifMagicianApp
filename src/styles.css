@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(201, 201, 201);
+}
+
+.container {
+    background-color: bisque;
+    box-sizing: border-box;
+    padding: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid {
+    text-align: center;
+    text-overflow: clip;
+}
+
